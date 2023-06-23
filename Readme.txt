@@ -1,0 +1,1 @@
+This folder is created to test Jenkins Integration with Git
